@@ -1,0 +1,13 @@
+*.log
+build/
+.env
+# Dependency directory
+node_modules
+# generated source
+dist/
+# editor files
+.idea/
+# webpack build
+.webpack
+
+
