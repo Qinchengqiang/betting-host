@@ -12,12 +12,12 @@ for Tabcorp.
 
 ## Table of Contents
 
-- [Running program](#running program)
+- [Running](#running)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Running program
+## Running
 
 #### step1: download repo from github
 ```
